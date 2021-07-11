@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ventic | Ventic on top</title>
+    <link>https://VenticGuild.github.io/categories/</link>
+    <description>Recent content in Categories on Ventic | Ventic on top</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Ventic Guild and [Us](VenticGuild.github.io/copyright)</copyright>
+    
+	<atom:link href="https://VenticGuild.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
